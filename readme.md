@@ -11,6 +11,8 @@
     ```
     node index.js
     ```
-* Invite the bot with **bot** and **applications.commands** scopes. To create an invite link, go to the OAuth2 section, then *URL Generator*. Make sure to tick both scopes, and give the bot Administrator permission just in case.
+* Invite the bot to a server with [community](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) enabled. To create an invite link, go to the OAuth2 section, then *URL Generator*. Make sure to activate the **bot** and **applications.commands** scopes, and give the bot Administrator permission just in case.
 * Use the `ping` command in the server you invited the bot to.
 * Check https://discord.com/developers/active-developer in 48 hours to redeem!
+
+*NOTE: Make sure you have the “Use data to improve Discord” setting enabled under User Settings > Privacy & Safety otherwise you won't be able to be marked as eligible.*
