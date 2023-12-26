@@ -3,7 +3,7 @@
 
 * Create a new [Discord Application](https://discord.com/developers/applications).
 * Create a bot user for the application.
-* Reset the *Token*, copy it alongside the *Client_ID* (found in the OAuth2 section).
+* Reset the *Token*, copy it alongside the *Client_ID* (found in the Bot and OAuth2 sections, respectively).
 * Rename `secrets-example.js` to `secrets.js`
 * Insert the *Token* and *Client_ID* in `secrets.js`
 * Run the bot
