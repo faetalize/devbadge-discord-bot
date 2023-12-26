@@ -1,4 +1,4 @@
-# Simple Discord Bot | Supports Slash Commands
+# Simple Discord Bot | Grants Active Developer Badge
 ## Want the *Active Developer* badge? Run the bot, execute the ping command, and you'll get it in less than 48 hours!
 
 * Create a new [Discord Application](https://discord.com/developers/applications).
